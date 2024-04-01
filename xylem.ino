@@ -4,7 +4,9 @@ void setup() {}
 void output_moisture(uint8_t moisture) {}
 
 
-uint8_t read_moisture() {}
+uint8_t read_moisture() {
+  return 0;
+}
 
 
 void open_valve() {}
